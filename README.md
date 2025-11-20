@@ -1,4 +1,4 @@
-
+<!-- Profile Header -->
 <h1 align="center">Hi, I'm Aum 👋</h1>
 <p align="center">
   <b>Full-stack & AI-curious developer</b> building useful things with Python/JS, FastAPI/Node, React/Next.js, and a growing LLM toolkit.
@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="mailto:aummm1905@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail"></a>
-  <!-- Replace with your links if you have them -->
-  <a href="https://www.linkedin.com/in/aumpatel19" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/aumpatel19/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="https://github.com/aumpatel19" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-aumpatel19-000000?logo=github"></a>
 </p>
 
 ---
@@ -22,7 +22,7 @@
 
 ### 🤝 Open to collaborate on
 - Anything you’re excited about—**full-stack, automation, or AI-adjacent**.  
-  Got an idea? → **[Open a discussion](https://github.com/aumpatel19)** or drop an email.
+  Got an idea? → <a href="https://github.com/aumpatel19">open a discussion</a> or <a href="mailto:aummm1905@gmail.com">email me</a>.
 
 ---
 
@@ -59,36 +59,10 @@
 
 ---
 
-## 📦 Featured Work
-> Replace the links below with your best repos. Keep titles short and bullets impact-oriented.
-
-- **Expense & Invoice Auditor** – OCR → **JSON (schema-validated)** + policy checks, reminders  
-  `Python · FastAPI · MongoDB · JSON Schema`
-  - Reduced manual corrections by **~33%**; eval harness **P/R ~86%/80%**  
-  - Repo: 🔗 _add link_
-
-- **FinanceHelper AI** – Lightweight **RAG + LoRA** for finance Q&A  
-  `Python · FastAPI · LangChain · Databricks · MLflow`
-  - Accuracy **+12%**, hallucinations **−25%** on curated eval set  
-  - Repo: 🔗 _add link_
-
-- **Job Application Tracker** – Boards, reminders, dashboards, CSV export  
-  `React · Tailwind · FastAPI · MongoDB`
-  - API list latency **−45%** via pagination + indexes  
-  - Repo: 🔗 _add link_
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=aumpatel19&show_icons=true&theme=transparent" alt="GitHub stats"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aumpatel19&layout=compact&theme=transparent" alt="Top languages"/>
-</p>
-<p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=aumpatel19&theme=transparent" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aumpatel19&theme=algolia&no-frame=true&column=6" alt="Trophies"/>
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aumpatel19&theme=github-compact" alt="Contribution Graph"/>
@@ -97,11 +71,10 @@
 ---
 
 ## 🌐 Connect
-- **Email:** <lohiyashirin@gmail.com>  
-- **LinkedIn:** 🔗 _add link_ <!-- Profile Header -->
-
+- **Email:** <a href="mailto:aummm1905@gmail.com">aummm1905@gmail.com</a>  
+- **LinkedIn:** <a href="https://www.linkedin.com/in/aumpatel19/" target="_blank">linkedin.com/in/aumpatel19</a>  
+- **GitHub:** <a href="https://github.com/aumpatel19" target="_blank">github.com/aumpatel19</a>
 
 > If you liked something here, consider ⭐️ starring a repo—thanks!
- 
 
 
